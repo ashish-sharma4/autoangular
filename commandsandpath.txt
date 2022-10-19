@@ -1,0 +1,29 @@
+https://github.com/pintuojha/angular.git 
+Long text >>> https://docs.google.com/document/d/18ggxHPvzWJIOoSRvPXln_TpFcmLz4dhE/edit
+
+Default structure>>>>>>>>https://assessment-tg.s3.ap-south-1.amazonaws.com/dev/zipproject/2022/6/27/angularproject/1656324497/Archive.zip
+Default Structure in git>>>>https://github.com/pintuojha/angular.git
+Git having answer also in separate folder>>>https://github.com/ashishsharma29051989/angular/tree/patch-2
+
+"pbc": "npm --loglevel=error install",
+"psec": "npm run sample-tests",
+"pec": "npm run background-tests",
+"perp": "report.xml"
+
+
+
+
+
+
+
+Sample Tests = npm run sample-tests
+Background Tests = npm run background-tests
+
+Sample Tests Path - src/app/book-details/book-details.component.spec.ts
+Background Tests Path - src/app/app.component.spec.ts
+XML Report Path - report.xml
+
+To make all pass> use monti files as given below
+
+Solution file:
+https://drive.google.com/drive/u/0/folders/1NHXS7V6AeZlRrAcaPfaL_KmWhVY32MQE
