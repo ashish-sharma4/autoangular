@@ -11,7 +11,8 @@ Git having answer also in separate folder>>>https://github.com/ashishsharma29051
 "perp": "report.xml"
 
 
-
+Command to pass all test cases:
+cp /home/tg-user/CandidateCode/answers/book-details.component.* /home/tg-user/CandidateCode/src/app/book-details/
 
 
 
